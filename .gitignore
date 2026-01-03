@@ -1,0 +1,4 @@
+# 缓存目录
+__pycache__/
+# 数据缓存目录
+data/cache/
